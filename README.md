@@ -34,7 +34,7 @@ Ready-to-use messages for sharing:
 💝 Make Valentine's Day 2025 unforgettable!
 Create your own interactive Valentine's website in minutes - completely FREE!
 ✨ No coding required
-🎨 Fully customizable
+🎨 Fully customizable 
 🌐 Get your own website link
 
 Try it now: https://github.com/End2EndAI/valentine-website-2025
